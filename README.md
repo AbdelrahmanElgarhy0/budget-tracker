@@ -14,8 +14,7 @@ A full-stack budgeting tool that helps users track income, expenses, and savings
 - Dark Mode & Financial Tips
 - Responsive Design
 
-## 📷 Screenshots
-_Add screenshots here if available._
+
 
 ## 📁 Folder Structure
 - `/client` → React Frontend
